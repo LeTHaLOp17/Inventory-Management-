@@ -33,12 +33,3 @@ Inventory-Management- is a Java-based application utilizing JDBC connectivity to
 
 ## Contributing  
 Contributions are welcome! Please fork the repository and submit pull requests. Use the Issues section for bug reports or enhancement requests.  
-
-## License  
-This project is licensed under the MIT License.  
-
-***
-
-Let me know if you want detailed instructions, screenshots, or extra sections added.
-
-[1](https://github.com/LeTHaLOp17/Inventory-Management-)
